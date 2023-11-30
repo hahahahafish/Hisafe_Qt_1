@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>image/WatchDog.png</file>
+        <file>image/system.png</file>
+        <file>image/Smbus.png</file>
+        <file>image/SampleAppx.png</file>
+        <file>image/monitor.png</file>
+        <file>image/list.png</file>
+        <file>image/fan.png</file>
+        <file>image/DIO.png</file>
+        <file>image/backlightnew.png</file>
+        <file>image/timer.png</file>
+        <file>image/timer(1).png</file>
+        <file>image/light.png</file>
+        <file>image/hisafe.png</file>
+        <file>image/aaeonlogo.png</file>
+        <file>image/background_main.png</file>
+        <file>image/background.png</file>
+        <file>image/out.png</file>
+        <file>image/in.png</file>
+        <file>image/Wow-gif.gif</file>
+        <file>image/fan.gif</file>
+    </qresource>
+</RCC>
